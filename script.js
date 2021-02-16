@@ -1,4 +1,4 @@
-    require(["esri/config","esri/Map", "esri/views/MapView", "esri/layers/CSVLayer", "esri/layers/FeatureLayer"], function (esriConfig, Map, MapView, FeatureLayer, CSVLayer) {
+require(["esri/config","esri/Map", "esri/views/MapView", "esri/layers/CSVLayer", "esri/layers/FeatureLayer"], function (esriConfig, Map, MapView, FeatureLayer, CSVLayer) {
 
 esriConfig.apiKey =  "AAPK6221ccc708944717801b1e737e84e229ARkRORCTCsMHPkG82l8m647wlPBVSru5T3Z9cJ0JjaSyfYk-s0mQw-UiHP3Xv8jT"; 
 
